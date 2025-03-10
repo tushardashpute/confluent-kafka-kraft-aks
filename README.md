@@ -2,7 +2,7 @@
 # 🚀 Confluent Kafka KRaft Mode on Azure AKS (Test Setup)
 
 This guide provides steps to deploy **Confluent Kafka (KRaft mode, no Zookeeper)** on **Azure Kubernetes Service (AKS)** using **Confluent Operator Kickstart method**, along with a sample **Kafka producer/consumer test** using a client pod.
-
+```
 ---
 
 ## 📦 Prerequisites
